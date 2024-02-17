@@ -27,7 +27,6 @@ s = ((p*(p-a)*(p-b)*(p-c))**0.5)
 print(s)
 
 # вариант 2
-
 import math
 a = int(input())
 b = int(input())
